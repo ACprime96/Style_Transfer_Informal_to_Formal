@@ -7,7 +7,7 @@ This is our Final Year [Project report](https://github.com/ACprime96/Style_Trans
 
 ## Problem Statement
 
-   In this project, we aim to translate a given sentence in an informal style to a more formal style using Neural Machine Translation.
+   In this project, we aim to translate a given sentence in an informal style to a more formal style using **Neural Machine Translation**.
 ## Applications
 With the ever-increasing usage of social media, people tend to develop writing skills which are very skewed towards the informal style and they often find it really difficult to express things in a formal setting. Our tool can be used to tackle the above problem where users can improve their writing style to deliver content in a professional tone.
 
