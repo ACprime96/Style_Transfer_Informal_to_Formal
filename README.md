@@ -1,8 +1,7 @@
 # Style Transfer of Informal style sentences to Formal style
 
-This is our Final Year [Project report](https://github.com/ACprime96/Style_Transfer_Informal_to_Formal/blob/main/Style_Transfer.pdf) submitted to the [*Department of Information Science & Engineering*](msrit.edu/department/ise.html), <br/>
+This is our [Mini Project report](https://github.com/ACprime96/Style_Transfer_Informal_to_Formal/blob/main/Style_Transfer.pdf) submitted to the [*Department of Information Science & Engineering*](msrit.edu/department/ise.html), <br/>
 ### Ramaiah Institute of Technology, Bengaluru
-#### Course code : IS821 SENIOR PROJECT
 
 ## Problem Statement
 
